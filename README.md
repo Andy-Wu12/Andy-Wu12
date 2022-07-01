@@ -17,7 +17,8 @@
 
 <p align="center">
   📌 I am located in New York City, New York and looking for a position either there or remote in the USA.
-  If you are looking to hire an entry-level (or higher!) developer, please check out my resume website here 
+  If you are looking to hire an entry-level (or higher!) developer, please check out my resume website
+  <a href='https://iamandywu.com/'>here<a/>
   to determine if I may be a fit. You can contact me at awpats12[at]gmail[dot]com or message me on LinkedIn.
 </p>
 

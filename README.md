@@ -1,4 +1,4 @@
-## <div align="center"> Hello! I am Andy Wu, aspiring software engineer / web developer </div>
+## <div align="center"> Hello! I am Andy Wu, aspiring software engineer / software developer </div>
 
 <div align="center">
   <a href='https://www.linkedin.com/in/andywuu/'>

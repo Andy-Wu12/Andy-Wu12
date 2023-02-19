@@ -1,4 +1,4 @@
-## <div align="center"> Hello! I am Andy Wu, an aspiring software engineer </div>
+## <div align="center"> Hello! I am Andy Wu, a Software Engineer </div>
 
 <div align="center">
   <a href='https://www.linkedin.com/in/andywuu/'>
@@ -16,7 +16,11 @@
 </br>
 
 <p align="center">
-  📌 I am located in New York City, New York and open to either relocation or remote anywhere in the USA.
+  
+</p>
+
+<p align="center">
+  📌 I'm based in New York City but open to roles anywhere within the United States (either with relocation or fully remote).
   If you are looking to hire an entry-level (or higher!) engineer, please check out my resume website
   <a href='https://iamandywu.com/'>here<a/>
   to determine if I may be a fit. You can contact me at awpats12[at]gmail[dot]com or message me on LinkedIn.

@@ -22,7 +22,7 @@
 <p align="center">
   📌 I'm based in New York City but open to roles anywhere within the United States (either with relocation or fully remote).
   If you are looking to hire an entry-level (or higher!) engineer, please check out my resume website
-  <a href='https://iamandywu.com/'>here<a/>
+  <a href='https://andywucodes.com/'>here<a/>
   to determine if I may be a fit. You can contact me at awpats12[at]gmail[dot]com or message me on LinkedIn.
 </p>
 
